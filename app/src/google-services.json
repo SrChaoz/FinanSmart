@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "929866683330",
+    "project_id": "finansmart-f1d02",
+    "storage_bucket": "finansmart-f1d02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929866683330:android:0da9ebab7f2913cbd37c5b",
+        "android_client_info": {
+          "package_name": "com.app.finansmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929866683330-ja8n8n4666n7n9jgebq153546k9jvsr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApwgXx8clv3OHb8u9s3QzzP2CpSIwGdws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929866683330-ja8n8n4666n7n9jgebq153546k9jvsr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929866683330:android:33b464333fedb2c0d37c5b",
+        "android_client_info": {
+          "package_name": "com.example.finansmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929866683330-ja8n8n4666n7n9jgebq153546k9jvsr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApwgXx8clv3OHb8u9s3QzzP2CpSIwGdws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929866683330-ja8n8n4666n7n9jgebq153546k9jvsr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
